@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um profissional com experiência em proce
 
 Você pode me encontrar nos seguintes lugares:
 
-- LinkedIn: [Seu perfil do LinkedIn](https://www.linkedin.com/in/daniel-henrique-da-silva/)
+- LinkedIn: [daniel-henrique-da-silva](https://www.linkedin.com/in/daniel-henrique-da-silva/)
 - E-mail: hsdanield@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração! 😊
